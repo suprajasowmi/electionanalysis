@@ -14,3 +14,5 @@ These were the tasks that we finished:
 7. Open Questions:
 Besides the aforementioned tasks, please find TWO other insights that you think they extract valuable and actionable information, and try to interpret these insights.
 We chose too look at the top 5 states that have the highest write ins in the 2012 and 2016 elections and to look at the trends of write ins from 1976 to 2016.
+
+This project was completed by Mehdi Daoudi and Supraja Sowmiyanarayanan.
